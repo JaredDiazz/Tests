@@ -16,8 +16,7 @@ int main() {
         i++;
     }
 
-    cout << "the sum of the even numbers from 1 to " << number 
+    cout << "The sum of the even numbers from 1 to " << number 
          << " is: " << sum << endl;
     return 0;
 }
-    

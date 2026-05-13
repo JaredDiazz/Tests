@@ -10,7 +10,7 @@ int main() {
     cout << "Enter the number of classes you missed: ";
     cin >> classAbsent;
 
-    if (number >= 70 && classAbsent <= 3) {
+    if (number >= 85 && classAbsent <= 3) {
         cout << "You are eligible for the scholarship." << endl;
     } else {
         cout << "You are not eligible for the scholarship." << endl;
